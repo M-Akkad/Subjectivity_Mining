@@ -1,2 +1,15 @@
 
 Meta-Llama-3-8B-Instruct.Q4_K_M.gguf
+
+assignment_4\exp.ipynb
+assignment_4/bilstm_crossdomain_model.pth
+assignment_4/bilstm_indomain_model.pth
+assignment_4/cache_dir
+assignment_4/outputs
+assignment_4/runs
+assignment_4/model_results_summary_extended.csv
+assignment_4/svm_crossdomain_model.pkl
+assignment_4/svm_indomain_model.pkl
+assignment_4/tokenizer_hasoc.pkl
+assignment_4/tokenizer_olid.pkl
+assignment_4/exp.ipynb
